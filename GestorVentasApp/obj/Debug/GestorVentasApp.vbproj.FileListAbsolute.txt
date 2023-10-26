@@ -1,0 +1,14 @@
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\obj\Debug\GestorVentasApp.vbproj.AssemblyReference.cache
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\obj\Debug\GestorVentasApp.Resources.resources
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\obj\Debug\GestorVentasApp.vbproj.GenerateResource.cache
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\obj\Debug\GestorVentasApp.vbproj.CoreCompileInputs.cache
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\bin\Debug\GestorVentasApp.exe.config
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\bin\Debug\GestorVentasApp.exe
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\bin\Debug\GestorVentasApp.pdb
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\bin\Debug\GestorVentasApp.xml
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\obj\Debug\GestorVentasApp.exe
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\obj\Debug\GestorVentasApp.xml
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\obj\Debug\GestorVentasApp.pdb
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\obj\Debug\GestorVentasApp.FormClientes.resources
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\obj\Debug\GestorVentasApp.FormProductos.resources
+C:\Users\luca\source\repos\GestorVentasSolution\GestorVentasApp\obj\Debug\GestorVentasApp.DataGridViewItemsVenta.resources
