@@ -39,5 +39,5 @@ Este proyecto está bajo la [Licencia MIT](LICENSE).
 
 ## Contacto
 
-Si tienes preguntas o comentarios, no dudes en ponerte en contacto con lucafattorinii a través de fattouzuki@gmail.com.ar
+Si tienes preguntas o comentarios, no dudes en ponerte en contacto lucafattorinii a través de mi mail fattouzuki@gmail.com.ar
 
